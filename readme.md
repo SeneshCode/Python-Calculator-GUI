@@ -80,8 +80,8 @@ This is a graphical user interface (GUI) calculator built using **Python** and *
 ---
 
 ## Screenshots
-Include a screenshot of the calculator running, if possible, for better clarity.
-
+A screenshot of the calculator running.
+![Calculator](Calculator.png)
 ---
 
 ## License
