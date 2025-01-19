@@ -83,6 +83,7 @@ This is a graphical user interface (GUI) calculator built using **Python** and *
 
 A screenshot of the calculator running.
 ![Calculator](Calculator.png)
+
 ---
 
 ## License
